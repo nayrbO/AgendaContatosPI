@@ -1,4 +1,4 @@
-## Agenda de Estoque
+## Agenda de Contatos
 
 Essa agenda de contatos foi realizada com as tais ferramentas: como linguagem principal java swing para criar a interface, aquilo que chamo de agenda, também o banco de dados MySQL para realizar a conexão com o java conforme o ensinado nas aulas, assim então coumprindo os pré requisitos.
 
